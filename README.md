@@ -1,2 +1,2 @@
 # ecell
-Website for Entrepreneurship Cell, IIT Kanpur
+Website for Entrepreneurial Extravaganza Speakers (subtab)
